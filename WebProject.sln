@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServerDotNet5", "WebServerDotNet5\WebServerDotNet5.csproj", "{D9BB6800-578B-4C4C-BE74-BF84F34BA30C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServerDotNet6", "WebApplication1\WebServerDotNet6.csproj", "{E35B3459-9EBA-417B-B391-544E8EE8F5F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServerDotNet6", "WebServerDotNet6\WebServerDotNet6.csproj", "{E35B3459-9EBA-417B-B391-544E8EE8F5F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
