@@ -4,3 +4,12 @@ It's building a web server projects as simple and straight possible in different
 I want to demonstrate how to building the web server on different .NET versions in its purest form. My purpose in doing this, either comparing web server structure in
 different .Net versions and distinguish between the differences of them.
 As a result we will be able to emerged the enhancements and improvements throughout of different .NET versions.
+
+---
+
+   target framework | status
+----------------|----------------------
+netcoreapp3.1 | in-progress
+net5.0 | done
+net6.0 | done 
+net7.0  | in-progress
