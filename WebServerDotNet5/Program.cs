@@ -12,7 +12,7 @@ Host.CreateDefaultBuilder(args)
         {
             app.Run(async context =>
             {
-                await context.Response.WriteAsync("Hello World");
+                await context.Response.WriteAsync("Welcome! I'm .NET 5 web server.");
             });
         });
     })
